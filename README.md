@@ -27,6 +27,13 @@
 - User can update and delete post
 - User can create post
 
-## Author
+ ## TODOS
+- clearing of data when components unmount
+- scrolling to top when page changes
+- adding loaders
+- showing error messages
+- adding pagination to redux and persisting it
+ 
+ ## Author
 
 - Rahila Ilegbodu
