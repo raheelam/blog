@@ -1,11 +1,7 @@
 import * as React from "react"
-import { Link, useLocation, useNavigate } from "react-router-dom"
+import { Link } from "react-router-dom"
 import { RiNotification2Fill } from "react-icons/ri"
-import {
-  AiFillPlusSquare,
-  AiTwotoneAppstore,
-  AiTwotonePlusCircle,
-} from "react-icons/ai"
+import { AiTwotoneAppstore } from "react-icons/ai"
 import { SectionWrapper } from "."
 import { useAppSelector } from "../../redux/app/hooks"
 import { BiSolidPlusCircle } from "react-icons/bi"
