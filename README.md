@@ -2,7 +2,7 @@
 
 ## Hosted Application
 
--
+- https://verde-blog.netlify.app/
 
 ## Technologies Used
 
